@@ -1,0 +1,10 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 259 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.0.125:3000/
+10:09:04 PM [vite] Pre-transform error: Failed to resolve import "./components/Hub" from "src/App.jsx". Does the file exist?
